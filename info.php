@@ -3,4 +3,4 @@
 phpinfo();
 
 ?>
-J@mes516!
+test
